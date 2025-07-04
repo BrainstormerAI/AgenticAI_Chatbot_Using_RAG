@@ -199,7 +199,7 @@ st.markdown("""
 # st.write("Upload PDFs, maintain conversation history, and get intelligent responses!")
 
 # API Configuration
-API_URL = "http://127.0.0.1:9999"
+API_URL = "https://agenticai-chatbot-using-rag.onrender.com"
 
 # Sidebar Configuration
 with st.sidebar:
