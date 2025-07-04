@@ -2,6 +2,8 @@
 
 A powerful AI chatbot system with **Retrieval-Augmented Generation (RAG)**, **conversation memory**, **PDF processing**, and **smart answer switching**.
 
+[![Live on Render](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=render&logoColor=white)](https://agenticai-chatbot-using-rag-1.onrender.com/)
+
 ## 🌟 Features
 
 ### ✅ **Chat History & Memory**
