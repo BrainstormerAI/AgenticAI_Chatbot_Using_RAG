@@ -37,7 +37,7 @@ A powerful AI chatbot system with **Retrieval-Augmented Generation (RAG)**, **co
 
 ### 1. **Clone & Setup**
 ```bash
-git clone <your-repo>
+git clone https://github.com/BrainstormerAI/AgenticAI_Chatbot_Using_RAG.git
 cd enhanced-ai-agent
 ```
 
@@ -196,7 +196,6 @@ Content-Type: application/json
 
 **Groq Models:**
 - `llama-3.3-70b-versatile` - Latest Llama model
-- `mixtral-8x7b-32768` - Mixtral with large context
 - `llama3-70b-8192` - Standard Llama 3
 
 **OpenAI Models:**
